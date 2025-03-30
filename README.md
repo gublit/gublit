@@ -15,6 +15,12 @@ Here are the skills and technologies I specialize in:
 
 [![My Skills](https://skillicons.dev/icons?i=python,r,pytorch,anaconda,bash,git,linux,md,sklearn,ubuntu,tensorflow,sqlite,postgres,keras,polars,tidyverse)](https://skillicons.dev)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=python,r,pytorch,anaconda,bash,git,linux,md,sklearn,ubuntu,tensorflow,sqlite,postgres,keras,polars,tidyverse)" />
+  </a>
+</p>
+
 ## Projects
 
 ### [Cryptocurrency Data Analysis](https://github.com/yourusername/crypto-data-analysis)

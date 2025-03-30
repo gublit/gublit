@@ -50,6 +50,6 @@ Relevant Coursework: Machine Learning, Data Mining, Time Series Analysis, Probab
 Feel free to reach out for collaborations, discussions, or if you want to talk about AI/ML and cryptocurrency data analysis!
 
 - Email: [tisina@tuta.io](mailto:tisina@tuta.io)
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/myname)
-- Twitter: [@yourusername](https://twitter.com/myname)
+- LinkedIn: [linkedin.com/in/myname](https://linkedin.com/in/myname)
+- Twitter: [@myusername](https://twitter.com/myname)
 

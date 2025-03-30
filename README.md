@@ -1,7 +1,7 @@
 # GUBLI ALHASSAN
 **AI & ML Enthusiast | Crypto Data Analyst | Statistics Graduate**
 
-![Your Image](link_to_image)
+![Your Image](https://avatars.githubusercontent.com/u/84263401?v=4)
 
 ## Introduction
 Hi, I'm [Gubli Alhassan], a passionate AI and Machine Learning enthusiast with a Bachelor's degree in Statistics. My professional interests lie in the intersection of data analysis, machine learning, and cryptocurrency analysis. I specialize in extracting valuable insights from large datasets and building predictive models. 
@@ -32,8 +32,8 @@ Developed a Long Short-Term Memory (LSTM) model to predict cryptocurrency prices
 
 ### AI LEAD | [HackerBoost](https://www.hackerboost.org/)
 *Nov 2024 - Present*  
-- Conducted analysis on cryptocurrency market trends and predicted market movements using statistical models and machine learning.
-- Built a data pipeline for cryptocurrency data collection and analysis using PostgreSQL and Python.
+- Training AI/ML developers.
+- Building a community of Python devs in GH.
 
 ### Data Scientist Intern | [GCB BANK PLC](https://www.gcbbank.com.gh/)
 *November 2021 - February 2023*  
@@ -50,6 +50,6 @@ Relevant Coursework: Machine Learning, Data Mining, Time Series Analysis, Probab
 Feel free to reach out for collaborations, discussions, or if you want to talk about AI/ML and cryptocurrency data analysis!
 
 - Email: [tisina@tuta.io](mailto:tisina@tuta.io)
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
+- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/myname)
+- Twitter: [@yourusername](https://twitter.com/myname)
 

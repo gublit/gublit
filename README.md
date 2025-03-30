@@ -15,7 +15,7 @@ Here are the skills and technologies I specialize in:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  ![Tidyverse](https://img.shields.io/badge/-Tidyverse-40B7A1?style=flat&logo=r&logoColor=white)  ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  ![Polars](https://img.shields.io/badge/-Polars-11A6B1?style=flat&logo=polars&logoColor=white)
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,R,pytorch,scikit-learn,numpy)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,pytorch,pandas,tensorflow,sqlite,postgres,keras,polars,tidyverse)](https://skillicons.dev)
 ## Projects
 
 ### [Cryptocurrency Data Analysis](https://github.com/yourusername/crypto-data-analysis)

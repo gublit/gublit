@@ -53,3 +53,5 @@ Feel free to reach out for collaborations, discussions, or if you want to talk a
 - LinkedIn: [linkedin.com/in/myname](https://linkedin.com/in/myname)
 - Twitter: [@myusername](https://twitter.com/myname)
 
+[![trophy](https://github-profile-trophy.vercel.app/?gublit=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+

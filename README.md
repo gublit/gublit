@@ -4,7 +4,7 @@
 ![Your Image](https://avatars.githubusercontent.com/u/84263401?v=4)
 
 ## Introduction
-Hi, I'm Gubli Alhassan, a passionate AI and Machine Learning enthusiast with a Bachelor's degree in Statistics. My professional interests lie in the intersection of data analysis, machine learning, and cryptocurrency analysis. I specialize in extracting valuable insights from large datasets and building predictive models. 
+Hi, I'm Gubli Alhassan, a passionate AI,Machine Learningand Crypto enthusiast with a Bachelor's degree in Statistics. My professional interests lie at the intersection of data analysis, machine learning, and cryptocurrency analysis. I specialize in extracting valuable insights from large datasets and building predictive models. 
 
 Currently, I am diving deeper into AI/ML algorithms and crypto data analytics. I enjoy working with open-source technologies and contributing to data-driven projects.
 
@@ -58,5 +58,4 @@ Feel free to reach out for collaborations, discussions, or if you want to talk a
 - LinkedIn: [linkedin.com/in/myname](https://linkedin.com/in/myname)
 - Twitter: [@myusername](https://twitter.com/myname)
 
-[![trophy](https://github-profile-trophy.vercel.app/?gublit=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 

@@ -1,8 +1,6 @@
 # GUBLI ALHASSAN
 **AI & ML Enthusiast | Crypto Data Analyst | Statistics Graduate**
 
-![Your Image](https://avatars.githubusercontent.com/u/84263401?v=4)
-
 ## Introduction
 Hi, I'm Gubli Alhassan, a passionate AI,Machine Learningand Crypto enthusiast with a Bachelor's degree in Statistics. My professional interests lie at the intersection of data analysis, machine learning, and cryptocurrency analysis. I specialize in extracting valuable insights from large datasets and building predictive models. 
 

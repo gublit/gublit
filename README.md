@@ -13,8 +13,6 @@ Here are the skills and technologies I specialize in:
 
 ### **Programming Languages & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=python,r,pytorch,anaconda,bash,git,linux,md,sklearn,ubuntu,tensorflow,sqlite,postgres,keras,polars,tidyverse)](https://skillicons.dev)
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,r,pytorch,anaconda,bash,git,linux,md,sklearn,ubuntu,tensorflow,sqlite,postgres,keras,polars" />

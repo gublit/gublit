@@ -17,7 +17,7 @@ Here are the skills and technologies I specialize in:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=python,r,pytorch,anaconda,bash,git,linux,md,sklearn,ubuntu,tensorflow,sqlite,postgres,keras,polars,tidyverse)" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=python,r,pytorch,anaconda,bash,git,linux,md,sklearn,ubuntu,tensorflow,sqlite,postgres,keras,polars,tidyverse" />
   </a>
 </p>
 

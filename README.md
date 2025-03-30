@@ -12,7 +12,7 @@ Currently, I am diving deeper into AI/ML algorithms and crypto data analytics. I
 Here are the skills and technologies I specialize in:
 
 ### **Programming Languages & Tools**
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) **PyTorch**  - ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) **Scikit-learn**  - ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) **R**  - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) **PostgreSQL**  - ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) **SQLite**  - ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) **Excel**  - ![Tidyverse](https://img.shields.io/badge/-Tidyverse-40B7A1?style=flat&logo=r&logoColor=white) **Tidyverse**  - ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white) **Keras**  - ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) **NumPy**  - ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) **Pandas**  - ![Polars](https://img.shields.io/badge/-Polars-11A6B1?style=flat&logo=polars&logoColor=white) **Polars**
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  ![Tidyverse](https://img.shields.io/badge/-Tidyverse-40B7A1?style=flat&logo=r&logoColor=white)  ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  ![Polars](https://img.shields.io/badge/-Polars-11A6B1?style=flat&logo=polars&logoColor=white)
 
 ## Projects
 
@@ -35,15 +35,15 @@ Developed a Long Short-Term Memory (LSTM) model to predict cryptocurrency prices
 - Conducted analysis on cryptocurrency market trends and predicted market movements using statistical models and machine learning.
 - Built a data pipeline for cryptocurrency data collection and analysis using PostgreSQL and Python.
 
-### Data Scientist Intern | [Tech Solutions Ltd.](https://techsolutions.com)
-*January 2021 - May 2022*  
+### Data Scientist Intern | [GCB BANK PLC](https://www.gcbbank.com.gh/)
+*November 2021 - February 2023*  
 - Worked on analyzing financial data to predict stock market trends using machine learning models.
-- Implemented predictive models using Scikit-learn and TensorFlow, achieving an accuracy improvement of 20% in predictions.
+- Implemented predictive models using Scikit-learn and TensorFlow to improve retail banking operations.
 
 ## Education
 
 ### B.S. in Statistics | [KNUST](https://www.knust.edu.gh/)
-*Graduated May 2021*  
+*Graduated September 2021*  
 Relevant Coursework: Machine Learning, Data Mining, Time Series Analysis, Probability & Statistics.
 
 ## Contact Me

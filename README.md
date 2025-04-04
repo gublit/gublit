@@ -1,11 +1,6 @@
-<h1 align="center">Hi 👋, I'm Gubli Alhassan </h1>
+<h1 align="center">Hi 👋, Gubli Alhassan Here </h1>
 
 <h2 align='center'> AI & ML Enthusiast | Crypto Data Analyst | Statistics </h2>
-
-## Introduction
-Hi, I'm Gubli Alhassan, a passionate AI,Machine Learningand Crypto enthusiast with a Bachelor's degree in Statistics. My professional interests lie at the intersection of data analysis, machine learning, and cryptocurrency analysis. I specialize in extracting valuable insights from large datasets and building predictive models. 
-
-Currently, I am diving deeper into AI/ML algorithms and crypto data analytics. I enjoy working with open-source technologies and contributing to data-driven projects.
 
 ### **Technologies & Tools**
 

@@ -14,7 +14,7 @@
 Feel free to reach out for collaborations, discussions, or if you want to talk about AI/ML and cryptocurrency data analysis!
 
 - Email: [tisina@tuta.io](mailto:tisina@tuta.io)
-- LinkedIn: [linkedin.com/in/myname](https://linkedin.com/in/myname)
+- LinkedIn: [linkedin.com/in/myname](https://linkedin.com/in/name)
 - Twitter: [@gublix](https://twitter.com/gublix)
 
 

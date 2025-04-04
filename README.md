@@ -1,4 +1,4 @@
-# GUBLI ALHASSAN
+<h1 align="center">Hi 👋, I'm Gubli Alhassan </h1>
 **AI & ML Enthusiast | Crypto Data Analyst | Statistics Graduate**
 
 ## Introduction

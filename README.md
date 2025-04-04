@@ -15,6 +15,6 @@ Feel free to reach out for collaborations, discussions, or if you want to talk a
 
 - Email: [tisina@tuta.io](mailto:tisina@tuta.io)
 - LinkedIn: [linkedin.com/in/myname](https://linkedin.com/in/myname)
-- Twitter: [@myusername](https://twitter.com/myname)
+- Twitter: [@@gublix](https://twitter.com/gublix)
 
 

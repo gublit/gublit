@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, Gubli Alhassan Here </h1>
+<h1 align="center">Hi 👋, Gubli Alhassan Here!!! </h1>
 
-<h2 align='center'> AI & ML Enthusiast | Crypto Data Analyst | Statistics </h2>
+<h2 align='center'> My Interests: AI & ML Enthusiast | Crypto Data Analyst | Statistics </h2>
 
 ### **Technologies & Tools**
 

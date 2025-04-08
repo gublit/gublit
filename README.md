@@ -10,7 +10,7 @@ AI & ML Enthusiast \| Crypto Data Analyst \| Statistics
 
 </h2>
 
-### **Technologies & Tools**
+### 🧰 **Technologies & Tools**
 
 <p align="center">
 

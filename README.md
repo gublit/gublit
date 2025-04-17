@@ -24,4 +24,4 @@ Feel free to reach out for collaborations, discussions, or if you want to talk a
 
 -   Email: ![](images/icons8-email-48 (1).png){width="30"}[tisina\@tuta.io](mailto:tisina@tuta.io)
 
--   Twitter: ![](images/icons8-x-30.png){width="1"}![](images/icons8-x-30-01.png)[\@gublix](https://twitter.com/gublix)
+-   Twitter:![](images/icons8-x-30-01.png)[\@gublix](https://twitter.com/gublix)

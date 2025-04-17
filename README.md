@@ -24,4 +24,4 @@ Feel free to reach out for collaborations, discussions, or if you want to talk a
 
 [![](images/x.svg)](https://x.com/gublix)
 
-[![](images/email-02.png)](https://app.tuta.com/mail/)
+[![](images/email-02.png)](https://app.tuta.com/mail/tisina@tuta.io)

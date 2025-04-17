@@ -24,4 +24,4 @@ Feel free to reach out for collaborations, discussions, or if you want to talk a
 
 -   Email: [![Mail](images/email.png)](https://app.tuta.com/mail/)
 
--   Twitter: [![X](images/icons8-x-50.png)](https://x.com/gublix)
+-   Twitter: [![X](images/x.svg)](https://x.com/gublix)

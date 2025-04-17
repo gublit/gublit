@@ -22,6 +22,6 @@ AI & ML Enthusiast \| Crypto Data Analyst \| Statistics
 
 Feel free to reach out for collaborations, discussions, or if you want to talk about AI/ML and cryptocurrency data analysis!
 
--   Email: [![Mail](images/email.png)](https://app.tuta.com/mail/)
+[![](images/x-05.svg)](https://x.com/gublix)
 
--   Twitter: [![X](images/x.svg)](https://x.com/gublix)
+[![](images/email-02.png)](https://app.tuta.com/mail/)

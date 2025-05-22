@@ -1,6 +1,6 @@
 <h1 align="center">
 
-Hi 👋, Gubli Alhassan Here!!!
+Hi 👋, Gubli Here!!!
 
 </h1>
 

@@ -14,7 +14,7 @@ AI & ML Enthusiast \| Crypto Data Analyst \| Statistics
 
 <p align="center">
 
-<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,r,pytorch,anaconda,bash,git,linux,md,sklearn,ubuntu,tensorflow,docker,sqlite,postgres,keras,polars"/> </a>
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,r,pytorch,anaconda,docker,bash,git,linux,md,sklearn,ubuntu,tensorflow,sqlite,postgres,keras,polars"/> </a>
 
 </p>
 

@@ -18,7 +18,7 @@ AI & ML Enthusiast | Crypto Data Analyst | Statistics
 
 </p>
 
-### 📫 **Connect with Me**
+### 📫 **Let's Connect**
 
 Feel free to reach out for collaborations, discussions, or if you want to talk about AI/ML and cryptocurrency data analysis!
 

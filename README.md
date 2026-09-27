@@ -6,7 +6,7 @@ Hi 👋, Gubli here!!!
 
 <h2 align="center">
 
-AI & ML Enthusiast | Crypto Data Analyst | Statistics
+AI & ML Enthusiast | Data Analyst | Statistics
 
 </h2>
 
